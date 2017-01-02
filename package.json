@@ -1,0 +1,26 @@
+{
+  "name": "whendoesthebellring",
+  "version": "1.0.0",
+  "description": "When the hell does it ring?",
+  "main": "server/app.js",
+  "scripts": {
+    "start": "nodemon server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidney-pham/whendoesthebellring.git"
+  },
+  "author": "Sidney Pham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sidney-pham/whendoesthebellring/issues"
+  },
+  "homepage": "https://github.com/sidney-pham/whendoesthebellring#readme",
+  "dependencies": {
+    "compression": "^1.6.2",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
