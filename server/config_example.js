@@ -1,8 +1,9 @@
 // Fill this out and rename it to config.js.
 
 var config = {
-    client_id: '...',
-    client_secret: '...'
+    clientId: '...',
+    clientSecret: '...',
+    host: '...' // e.g., 'localhost' (Don't add the port or protocol.)
 };
 
 module.exports.config = config;
