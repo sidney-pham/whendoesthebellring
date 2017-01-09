@@ -1,10 +1,10 @@
-# whendoesthebellring
+# whendoesthebellring (coming soon)
 
 No but seriously, when *does* it ring?
 
 We all know you think [Classes](https://lordhelix.tk) is obscenely minimalistic and looks terrible on anything but a smartphone, and [Sublimate](https://sublimate.tk) is slow and boring.
 
-[whendoesthebellring](whendoesthebellring.tk) is clearly what you need.
+[whendoesthebellring](http://whendoesthebellring.tk) is clearly what you need.
 
 ## Or you can just `git clone` and pretend you made it!
 To run your own copy of whendoesthebellring, you gotta register up at the Student Portal for a schmick new SBHS App. Set your Redirect URI to something like `http://localhost:3000/callback`.
