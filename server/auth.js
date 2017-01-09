@@ -127,7 +127,7 @@ module.exports = function(app, clientId, clientSecret, host) {
                 });
             }
         } else {
-            res.status(401).json('Token cookie doesn\'t exist.');
+            res.status(401).json('Token cookie doesn\'t exist. Try logging in again.');
         }
     });
 };
