@@ -1,4 +1,4 @@
-# whendoesthebellring (coming soon)
+# whendoesthebellring (not coming soon)
 
 No but seriously, when *does* it ring?
 
